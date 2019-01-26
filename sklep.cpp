@@ -89,6 +89,7 @@ class Eshop
 int main()
 {
     Eshop eshop;
+    cout<<endl;
     /*wyswietl_produkty();
     zakupy();
     pokaz_koszyk();
